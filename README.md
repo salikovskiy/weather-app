@@ -1,2 +1,2 @@
-# basic-weather-app
-weather app using pure JavaScript and free weather app
+# Basic Weather App
+Weather app using pure JavaScript and free weather app
